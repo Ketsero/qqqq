@@ -20,7 +20,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p style="color:Blue"><b>"Ніж Правителя"</b></p>
+<p style="color:Blue; text-align:center"><b>"Ніж Правителя"</b></p>
 <h2 style="color:rgb(150, 153, 0)">Стати:</h2>  
 <p style="color:rgb(150, 153, 0)">+30 до швидкості</p>
 <p style="color:rgb(150, 153, 0)">+10 до прихованості</p>
@@ -29,7 +29,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p style="color:red"><b>"Ніж Вогняного Дракона"</b></p>
+<p style="color:red; text-align:center"><b>"Ніж Вогняного Дракона"</b></p>
 <h2 style="color:rgb(150, 153, 0)">Стати:</h2>  
 <p style="color:rgb(150, 153, 0)">+50 до сили</p>
 <p style="color:rgb(150, 153, 0)">+5 до прихованості</p>
@@ -37,7 +37,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p style="color:Blue"><b>"Кільце Правителя"</b></p>
+<p style="color:Blue; text-align:center"><b>"Кільце Правителя"</b></p>
 <h2 style="color:rgb(150, 153, 0)">Стати:</h2> 
 <p style="color:rgb(150, 153, 0)">+20 до сили</p>
 <p style="color:rgb(150, 153, 0)">+20 до прихованості</p>
